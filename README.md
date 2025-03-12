@@ -1,7 +1,7 @@
 # TB-ACCELERATION-PLAN-Dashboard!
 
 ## Overview
-This repository contains a Power BI dashboard on Tuberculosis data for monitoring and evaluation.  Data is extracted from APPR database via connector and loaded into Power BI, where Power Query is used for data cleaning, manipulation, and restructuring.  The dashboard provides a range of analyses, including an indicator summary report, trend analysis, concurrence analysis between indicators, an accountability matrix, and target achievement monitoring, among other features.
+This repository contains a Power BI dashboard on Tuberculosis data for monitoring and evaluation.  Data is extracted from APPR database via connector and loaded into Power BI, where Power Query is used for data cleaning, manipulation, and restructuring.  The dashboard provides a range of analyses, including an indicator summary report, trend analysis, among other features.
 
 Beyond the project's striking visuals, its most compelling feature was the automation of recurring processes.  Specifically, it addressed the dynamic recalculations required by period changes (e.g., quarterly shifts) and implemented functions that adapt their behavior based on specific conditions.
 ## DAX formulas used 
