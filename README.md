@@ -19,6 +19,6 @@ Beyond the project's striking visuals, its most compelling feature was the autom
     Table.SelectRows, Table.ReorderColumns, Table.SplitColumn, Table.ReplaceValue, Table.Pivot, Table.Unpivot
   - Creating reuseable functions
 
-You can download the Power BI dashboard here: [TB Acceleration Plan Dashboard](https://drive.google.com/file/d/1OP9B2RkexCGm_K_W2QJ5PUfv6vJilPKP/view?usp=sharing)
+You can download the Power BI dashboard here: [TB Acceleration Plan Dashboard](https://drive.google.com/file/d/1OP9B2RkexCGm_K_W2QJ5PUfv6vJilPKP/view?usp=drive_link)
 
 Feel free to explore and provide feedback!😊
